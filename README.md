@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Cache Extreme is an Free and Open Source plugin for Oxwall Social Software. Help you clear cache. Currently support Template Cache and Backend Cache, more are coming soon.
+Cache Extreme is an Free and Open Source plugin for Oxwall Social Software. Help you clear cache. Currently support Template Cache, Backend Cache, themes static cache, and plugins static caches, more is coming soon.
 
 LICENSE
 -------
